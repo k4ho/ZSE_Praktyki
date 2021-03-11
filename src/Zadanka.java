@@ -9,6 +9,7 @@ public class Zadanka {
 
 
 
+
     //zadanie 2
 
     int A = 10;
